@@ -1,0 +1,1 @@
+250 amino acids have sidechains with CG, CD etc atoms

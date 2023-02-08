@@ -1,0 +1,44 @@
+title Beta Sheet
+
+default sheet
+
+res asn phi  -98.87 psi   20.40
+
+res gly phi   61.88 psi   15.54
+
+res val phi  -84.05 psi  133.64
+
+res asp phi -142.06 psi   94.04
+
+res gly phi -140.66 psi -157.47
+
+res glu phi  -92.44 psi  146.10
+
+res trp phi -119.10 psi  142.92
+
+res thr phi -134.25 psi  154.92
+
+res tyr phi -138.74 psi  127.94
+
+res asp phi -118.34 psi  110.00
+
+res asp phi  -75.06 psi  -11.27
+
+res ala phi  -81.66 psi  -17.03
+
+res thr phi -132.30 psi   -0.98
+
+res lys phi   57.83 psi   42.60
+
+res thr phi -120.90 psi  130.84
+
+res phe phi -101.12 psi  151.42
+
+res thr phi -138.39 psi  143.39
+
+res val phi -125.66 psi  126.65
+
+res thr phi -123.28 psi  125.57
+
+res glu phi  -94.99 psi  999.99
+
